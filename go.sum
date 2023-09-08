@@ -9,6 +9,8 @@ github.com/dsnet/golib v0.0.0-20171103203638-1ea166775780/go.mod h1:Lj+Z9rebOhdf
 github.com/go-logr/logr v1.2.4 h1:g01GSCwiDw2xSZfjJ2/T9M+S6pFdcNtFYsp+Y43HYDQ=
 github.com/go-skynet/LocalAI v1.25.1-0.20230901172253-d5cad7d3aee0 h1:xCD0KNcG5cfZ4HdBBUwBnx3FUXulWT2IR5rOUyn2+2o=
 github.com/go-skynet/LocalAI v1.25.1-0.20230901172253-d5cad7d3aee0/go.mod h1:L6s5MCosfky1qg/F2PcbMbmgs6vIrCGNln9p4Onu7A4=
+github.com/go-skynet/LocalAI v1.25.1-0.20230908163822-cc74fc93b4fd h1:vYPqeJH1TWobp52v5GsdeY1ElvLNGWiLIqjeZgrxTJc=
+github.com/go-skynet/LocalAI v1.25.1-0.20230908163822-cc74fc93b4fd/go.mod h1:mQdLhpWq7S0e/HIYjjX7JP3CVAvJpwlaZM73wlALXDk=
 github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 h1:tfuBGBXKqDEevZMzYi5KSi8KkcZtzBcTgAUUtapy0OI=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/golang/snappy v0.0.2 h1:aeE13tS0IiQgFjYdoL8qN3K1N2bXXtI6Vi51/y7BpMw=
